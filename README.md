@@ -1,1 +1,1 @@
-# sezam
+# Moje repozytorium
